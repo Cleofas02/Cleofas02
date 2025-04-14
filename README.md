@@ -7,13 +7,13 @@
 
 ## 🚀 About Me
 
-I'm a 17-year-old computer science student who loves building websites, solving coding problems, and exploring new technologies. I enjoy creating user-friendly, interactive, and optimized systems that make life easier. I'm always learning, improving, and challenging myself with every project I make.
+I'm a 18-year-old computer science student who loves building websites, solving coding problems, and exploring new technologies. I enjoy creating user-friendly, interactive, and optimized systems that make life easier. I'm always learning, improving, and challenging myself with every project I make.
 
 ---
 
 
 ## 🌐 Socials:
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/https://discord.gg/MaURMxcF) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/people/Leigh-Cleofas/pfbid02ztfS8axEbD7RSLpuhZP8XH5RquzzUUxfj2wHQjczDRVrunRY8q2HECfd6g89ijxfl/) 
+[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/https://discord.gg/MaURMxcF) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)]([https://facebook.com/https://www.facebook.com/people/Leigh-Cleofas/pfbid02ztfS8axEbD7RSLpuhZP8XH5RquzzUUxfj2wHQjczDRVrunRY8q2HECfd6g89ijxfl/](https://www.facebook.com/share/1Prz9i9urL/?mibextid=wwXIfr)) 
  [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/lei_grngr) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:leileighregner@gmail.com) 
 
 # 💻 Tech Stack:
