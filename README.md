@@ -7,7 +7,7 @@
 
 ## 🚀 About Me
 
-I'm a 18-year-old computer science student who loves building websites, solving coding problems, and exploring new technologies. I enjoy creating user-friendly, interactive, and optimized systems that make life easier. I'm always learning, improving, and challenging myself with every project I make.
+I'm a 17-year-old computer science student who loves building websites, solving coding problems, and exploring new technologies. I enjoy creating user-friendly, interactive, and optimized systems that make life easier. I'm always learning, improving, and challenging myself with every project I make.
 
 ---
 
