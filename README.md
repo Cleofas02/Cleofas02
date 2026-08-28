@@ -1,7 +1,13 @@
 
 
 ## 🌐 Socials:
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/https://discord.gg/MaURMxcF) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/share/1Prz9i9urL/?mibextid=wwXIfr) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/lei_grngr) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:leileighregner@gmail.com) 
+[![Discord](https://img.shields.io/badge/Discord-202124?style=for-the-badge&logo=discord&logoColor=5865F2)](https://discord.com/users/YOUR_USERNAME)
+[![Facebook](https://img.shields.io/badge/Facebook-202124?style=for-the-badge&logo=facebook&logoColor=1877F2)](https://facebook.com/YOUR_USERNAME)
+[![Instagram](https://img.shields.io/badge/Instagram-202124?style=for-the-badge&logo=instagram&logoColor=E4405F)](https://instagram.com/YOUR_USERNAME)
+[![Gmail](https://img.shields.io/badge/Email-202124?style=for-the-badge&logo=gmail&logoColor=EA4335)](mailto:YOUR_EMAIL@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-202124?style=for-the-badge&logo=linkedin&logoColor=0A66C2)](https://linkedin.com/in/YOUR_USERNAME)
+[![X](https://img.shields.io/badge/X-202124?style=for-the-badge&logo=x&logoColor=white)](https://x.com/YOUR_USERNAME)
+
 
 ### 💻 Tech Stack:
 
